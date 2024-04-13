@@ -1,0 +1,41 @@
+.main{
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    justify-content: center;
+    margin-top: 20px;
+   
+}
+
+.course{
+
+    width: 250px;
+    height: 400px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.titles{
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+.price{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: crimson;
+    text-align: right;
+
+    
+}
+.link{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
